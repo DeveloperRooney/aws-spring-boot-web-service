@@ -37,6 +37,11 @@ dependencies {
     // mustache
     implementation 'org.springframework.boot:spring-boot-starter-mustache'
 
+    // spring oauth client
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
+
+
+
 
 
 }
