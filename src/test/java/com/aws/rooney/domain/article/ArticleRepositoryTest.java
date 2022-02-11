@@ -22,10 +22,10 @@ public class ArticleRepositoryTest {
     @Autowired
     ArticleRepository articleRepository;
 
-    @AfterEach
-    public void cleanUp() {
-        articleRepository.deleteAll();
-    }
+//    @AfterEach
+//    public void cleanUp() {
+//        articleRepository.deleteAll();
+//    }
 
     @Test
     public void getArticle() {

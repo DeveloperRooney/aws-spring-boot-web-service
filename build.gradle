@@ -34,6 +34,10 @@ dependencies {
     // mariaDB
     implementation 'org.mariadb.jdbc:mariadb-java-client'
 
+    // mustache
+    implementation 'org.springframework.boot:spring-boot-starter-mustache'
+
+
 
 }
 
